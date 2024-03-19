@@ -1,5 +1,9 @@
 # linnlinn.github.io
-$<link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
+
+<h1 style="color: #5e9ca0;">Welcome to the <span style="color: #2b2301;">Botty chat-bot</span> !</h1>
+
+
+<link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
 <script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
 <df-messenger
   project-id="epsi-tech-dsc-formation-202005"
